@@ -1,0 +1,24 @@
+[submodule "barcodeViewerScilab"]
+	path = barcodeViewerScilab
+	url = https://github.com/Gegelascience/barcodeViewerScilab.git
+[submodule "barcodeViewerPython"]
+	path = barcodeViewerPython
+	url = https://github.com/Gegelascience/barcodeViewerPython.git
+[submodule "barcode_viewer_rust"]
+	path = barcode_viewer_rust
+	url = https://github.com/Gegelascience/barcode_viewer_rust.git
+[submodule "barcodeViewerGo"]
+	path = barcodeViewerGo
+	url = https://github.com/Gegelascience/barcodeViewerGo.git
+[submodule "barcodeViewerArduino"]
+	path = barcodeViewerArduino
+	url = https://github.com/Gegelascience/barcodeViewerArduino.git
+[submodule "barcodeViewerAngular"]
+	path = barcodeViewerAngular
+	url = https://github.com/Gegelascience/barcodeViewerAngular.git
+[submodule "barcodeViewerChrome"]
+	path = barcodeViewerChrome
+	url = https://github.com/Gegelascience/barcodeViewerChrome.git
+[submodule "BarcodeViewerAndroid"]
+	path = BarcodeViewerAndroid
+	url = https://github.com/Gegelascience/BarcodeViewerAndroid.git
