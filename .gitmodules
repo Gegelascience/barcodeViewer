@@ -22,3 +22,6 @@
 [submodule "BarcodeViewerAndroid"]
 	path = BarcodeViewerAndroid
 	url = https://github.com/Gegelascience/BarcodeViewerAndroid.git
+[submodule "barcode_viewer_wasm"]
+	path = barcode_viewer_wasm
+	url = https://github.com/Gegelascience/barcode_viewer_wasm.git
